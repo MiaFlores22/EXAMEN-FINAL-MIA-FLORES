@@ -1,0 +1,2 @@
+La  lista con los numeros aleatorios son: [79, 0]
+La nueva lista con sus respectivas raices son: [8.888194417315589, 0.0]
